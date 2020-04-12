@@ -5,7 +5,7 @@
         class="card-editor__icon"
         @click="deleteItem()"
         src="@/assets/image/icons/cross.svg"
-        alt=""
+        alt="delete"
       />
     </div>
     <p>{{ item }}</p>
